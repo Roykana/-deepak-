@@ -1,0 +1,6 @@
+{
+  "name": "VibePaper - AI Phone Wallpaper Generator",
+  "description": "Generate stunning phone wallpapers in 9:16 aspect ratio by describing your desired vibe, with remixing, 4K quality, and live lockscreen preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
